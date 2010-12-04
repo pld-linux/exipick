@@ -3,13 +3,13 @@
 Summary:	Tool that displays messages from Exim queue
 Summary(pl.UTF-8):	Narzędzie do wyświetlania wiadomości z kolejki Exima
 Name:		exipick
-Version:	20061117.2
+Version:	20100323.0
 Release:	1
 License:	GPL v2+
 Group:		Applications
-# based on http://jetmore.org/john/code/exixpand
-Source0:	%{name}.pl
-URL:		http://jetmore.org/john/code/#exixpand
+Source0:	http://jetmore.org/john/code/exipick.20100323.0
+# Source0-md5:	3b1b1d0ae0f08278115db6aa863798eb
+URL:		http://jetmore.org/john/code/#exipick
 BuildRequires:	perl-tools-pod
 BuildRequires:	rpm-perlprov
 Suggests:	perl-perldoc
