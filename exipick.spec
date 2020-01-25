@@ -1,5 +1,4 @@
 #
-%include        /usr/lib/rpm/macros.perl
 Summary:	Tool that displays messages from Exim queue
 Summary(pl.UTF-8):	Narzędzie do wyświetlania wiadomości z kolejki Exima
 Name:		exipick
